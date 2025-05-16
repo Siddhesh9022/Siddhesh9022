@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ParagSidd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Siddhesh9022/Siddhesh9022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @siddhesh
+- 👀 I’m interested in web development, machine learning, and Data science
+- 🌱 I’m currently learning AIML and cybersecurity 
+- 💞️ I’m looking to collaborate on open-source projects, especially those involving full-stack development or smart systems
+- 📫 How to reach me: siddheshp103@gmail.com
